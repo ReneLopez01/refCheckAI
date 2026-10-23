@@ -31,3 +31,7 @@ assets/demo_clips/*
 
 # --- logs ---
 *.log
+
+# --- claude code (shared settings are committed; personal overrides and browser snapshots are not) ---
+.claude/settings.local.json
+.playwright-mcp/
